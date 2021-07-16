@@ -1,0 +1,5 @@
+[b,a] = cheby1(n,Rp,Wp)
+[b,a] = cheby1(n,Rp,Wp,ftype)
+[z,p,k] = cheby1(___)
+[A,B,C,D] = cheby1(___)
+[___] = cheby1(___,'s')
